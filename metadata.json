@@ -1,0 +1,6 @@
+{
+  "name": "HANON SYSTEMS-INVENTORY MANAGEMENT",
+  "description": "Real-Time Factory Production & Matrix Monitoring System for Hanon Systems, supporting offline-first tracking, live dashboards, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
